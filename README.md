@@ -1,2 +1,1 @@
-# precurso-art
-repositorio de prueba del modulo 2
+como crear un repositorio y clonarlo desde github hacia mi escritorio local
